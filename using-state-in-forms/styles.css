@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(216, 177, 177);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(207, 82, 82);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(40, 28, 28);
+}
+
+p {
+    font-size: medium;
+}
+
+footer {
+    color: rgb(186, 133, 133);
+    background-color: rgb(33, 32, 32);
+}
